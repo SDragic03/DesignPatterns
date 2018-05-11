@@ -1,0 +1,10 @@
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/singleton/singleton_pattern/singleton_pattern/bin/Debug/netcoreapp2.0/singleton_pattern.deps.json
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/singleton/singleton_pattern/singleton_pattern/bin/Debug/netcoreapp2.0/singleton_pattern.runtimeconfig.json
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/singleton/singleton_pattern/singleton_pattern/bin/Debug/netcoreapp2.0/singleton_pattern.runtimeconfig.dev.json
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/singleton/singleton_pattern/singleton_pattern/bin/Debug/netcoreapp2.0/singleton_pattern.dll
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/singleton/singleton_pattern/singleton_pattern/bin/Debug/netcoreapp2.0/singleton_pattern.pdb
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/singleton/singleton_pattern/singleton_pattern/obj/Debug/netcoreapp2.0/singleton_pattern.csproj.CoreCompileInputs.cache
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/singleton/singleton_pattern/singleton_pattern/obj/Debug/netcoreapp2.0/singleton_pattern.AssemblyInfoInputs.cache
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/singleton/singleton_pattern/singleton_pattern/obj/Debug/netcoreapp2.0/singleton_pattern.AssemblyInfo.cs
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/singleton/singleton_pattern/singleton_pattern/obj/Debug/netcoreapp2.0/singleton_pattern.dll
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/singleton/singleton_pattern/singleton_pattern/obj/Debug/netcoreapp2.0/singleton_pattern.pdb
