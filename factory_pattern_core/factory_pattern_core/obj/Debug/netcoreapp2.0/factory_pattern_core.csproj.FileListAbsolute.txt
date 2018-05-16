@@ -1,0 +1,10 @@
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/factory_pattern_core/factory_pattern_core/bin/Debug/netcoreapp2.0/factory_pattern_core.deps.json
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/factory_pattern_core/factory_pattern_core/bin/Debug/netcoreapp2.0/factory_pattern_core.runtimeconfig.json
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/factory_pattern_core/factory_pattern_core/bin/Debug/netcoreapp2.0/factory_pattern_core.runtimeconfig.dev.json
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/factory_pattern_core/factory_pattern_core/bin/Debug/netcoreapp2.0/factory_pattern_core.dll
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/factory_pattern_core/factory_pattern_core/bin/Debug/netcoreapp2.0/factory_pattern_core.pdb
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/factory_pattern_core/factory_pattern_core/obj/Debug/netcoreapp2.0/factory_pattern_core.csproj.CoreCompileInputs.cache
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/factory_pattern_core/factory_pattern_core/obj/Debug/netcoreapp2.0/factory_pattern_core.AssemblyInfoInputs.cache
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/factory_pattern_core/factory_pattern_core/obj/Debug/netcoreapp2.0/factory_pattern_core.AssemblyInfo.cs
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/factory_pattern_core/factory_pattern_core/obj/Debug/netcoreapp2.0/factory_pattern_core.dll
+/Users/srddrag/Documents/SharedData/Dev/design_patterns/factory_pattern_core/factory_pattern_core/obj/Debug/netcoreapp2.0/factory_pattern_core.pdb
